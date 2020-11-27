@@ -61,3 +61,25 @@ Algunos de los lenguajes de programación Orientados a Objetos son:
 - **UML**: Unified Modeling Language o Lenguaje de Modelado Unificado. Tomó las bases y técnicas de OMT unificándolas. Tenemos más opciones de diagramas como lo son Clases, Casos de Uso, Objetos, Actividades, Iteración, Estados, Implementación.
 
 
+# 2. Orientación a Objetos.
+
+## 2.1. Objetos
+Los Objetos son aquellos que tienen **propiedades y comportamientos**, también serán sustantivos.
+Pueden ser Físicos o Conceptuales
+**Las Propiedades** también pueden llamarse atributos y estos también serán sustantivos. Algunos atributos o propiedades son nombre, tamaño, forma, estado, etc. Son todas las características del objeto.
+**Los Comportamientos** serán todas las operaciones que el objeto puede hacer, suelen ser verbos o sustantivos y verbo. Algunos ejemplos pueden ser que el usuario pueda **hacer** login y logout.
+
+Ejemplo: 
+**Perro**
+Propiedades::
+- nombre
+- color.
+- raza.
+- altura
+
+Comportamiento:
+- ladrar.
+- comer.
+- dormir.
+- correr.
+
